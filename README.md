@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+![alt text](/SimonsSays.gif)
 ![](gif1-link-here)
 ![](gif2-link-here)
 ![](gif3-link-here)
@@ -49,12 +50,15 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 https://www.quackit.com/css/css_color_codes.cfm
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
+>
 	There wasn't much challenge in creating this submission. The pre-work documentation was very thorough on what to do, and provided many external links to help as well. I looked up css color codes online to help with choosing the colors and that was about it for outside help. I already have expierience with Github, md files, and gif creation due to previous classes I have taken which did very similar projects to the pre-work with similar submissions. I doubt I would have had any issues if the pre-work was more difficult though, as I trust in my ability to quickly learn new skills and solve problems by searching online for answers to any questions I may have.
 
 3. What questions about web development do you have after completing your submission? 
+>
 	After what I've seen, I'm more curious about certain web applications I've seen like dynamically editing a site, such as wikipedia allowing you to edit the page as a user. Procedurally generated websites or infinite scrollers are also a curiosity as well in how they are made.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
+>
 	To make the site more interactive for potential viewers, ideally there should be a total of 9 buttons, numbers or images of shapes on the button to differentiate them better, make the game endless, and add a leaderboard that keeps track of the scores of each player.
 
 
